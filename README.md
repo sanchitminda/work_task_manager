@@ -5,7 +5,7 @@ A lightweight, **always-on-top** Windows desktop widget designed to help manage 
 ## Features
 
 ### 🎯 Core Functionality
-- **Three-Tab System**: Separate workspaces for Team A, Team B, and SAP Project
+- **Three-Tab System**: Separate workspaces for Team A, Team B, and Other Project
 - **Task Management**: Add, complete, and delete tasks from each context
 - **Active Work Log**: Quick note-taking for current tasks
 - **Session Timer**: Visual time tracking with HH:MM:SS format
@@ -60,7 +60,7 @@ python workday_widget.py
 
 ### Basic Workflow
 
-1. **Select a Tab**: Click "Team A", "Team B", or "SAP Project"
+1. **Select a Tab**: Click "Team A", "Team B", or "Other Project"
 2. **Add a Task**: Type in the input field and press Enter or click "+"
 3. **Select a Task**: Click any task to view/edit its notes
 4. **Take Notes**: Use the "Active Work Log" text area for rapid note-taking
@@ -161,4 +161,5 @@ For issues or questions, review the troubleshooting section or check the applica
 ---
 
 Built with ❤️ for friendly productivity
+
 
