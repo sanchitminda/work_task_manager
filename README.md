@@ -1,6 +1,6 @@
-# Workday Widget - ADHD-Friendly Desktop Task Manager
+# Workday Widget-Friendly Desktop Task Manager
 
-A lightweight, **always-on-top** Windows desktop widget designed to help manage split-shift workdays (4 hours Team A, 4 hours Team B, plus personal projects). Built with PyQt6 and optimized for ADHD-friendly UX patterns.
+A lightweight, **always-on-top** Windows desktop widget designed to help manage split-shift workdays (4 hours Team A, 4 hours Team B, plus personal projects). Built with PyQt6 and optimized for friendly UX patterns.
 
 ## Features
 
@@ -11,7 +11,7 @@ A lightweight, **always-on-top** Windows desktop widget designed to help manage 
 - **Session Timer**: Visual time tracking with HH:MM:SS format
 - **Auto-Save**: Persistent storage of all tasks and notes in JSON format
 
-### 🎨 ADHD-Optimized UI
+### 🎨 Optimized UI
 - **Dark Theme (Catppuccin)**: High-contrast, low-distraction color palette
 - **Always-On-Top**: Widget stays visible above other windows
 - **Frameless Design**: Minimal visual noise, modern appearance
@@ -160,4 +160,5 @@ For issues or questions, review the troubleshooting section or check the applica
 
 ---
 
-Built with ❤️ for ADHD-friendly productivity
+Built with ❤️ for friendly productivity
+
